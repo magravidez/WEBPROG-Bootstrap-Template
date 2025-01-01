@@ -1,1 +1,1 @@
-# WEBPROG-MI231-Bootstrap-Template
+# WEBPROG-Bootstrap-Template
